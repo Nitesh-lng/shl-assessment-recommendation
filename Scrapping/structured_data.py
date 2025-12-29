@@ -17,10 +17,6 @@ def parse_test_types(test_type_str):
 
 
 def extract_competencies(pdf_text):
-    """
-    Extract high-signal competencies from PDF text.
-    Simple but effective rule-based approach.
-    """
     if not pdf_text:
         return []
 
