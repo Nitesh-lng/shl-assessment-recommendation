@@ -12,3 +12,4 @@ faiss-cpu==1.7.3
 numpy<2
 pydantic
 requests
+python ==3.11.14
