@@ -1,0 +1,77 @@
+[
+  {
+    "assessment_id": "automation-anywhere-rpa-development-(new)",
+    "name": "Automation Anywhere RPA Development (New)",
+    "match_score": 1,
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "test_types": [
+      "K"
+    ],
+    "duration_minutes": 8
+  },
+  {
+    "assessment_id": "automata-data-science-pro-(new)",
+    "name": "Automata Data Science Pro (New)",
+    "match_score": 1,
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Mid-Professional"
+    ],
+    "test_types": [
+      "S"
+    ],
+    "duration_minutes": 60
+  },
+  {
+    "assessment_id": "python-(new)",
+    "name": "Python (New)",
+    "match_score": 1,
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "test_types": [
+      "K"
+    ],
+    "duration_minutes": 11
+  },
+  {
+    "assessment_id": "smart-interview-live-coding",
+    "name": "Smart Interview Live Coding",
+    "match_score": 1,
+    "job_levels": [
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Entry-Level"
+    ],
+    "test_types": [
+      "K"
+    ],
+    "duration_minutes": null
+  },
+  {
+    "assessment_id": "opq-ucf-development-action-planner-report-1.0",
+    "name": "OPQ UCF Development Action Planner Report 1.0",
+    "match_score": 1,
+    "job_levels": [
+      "Director",
+      "Executive",
+      "Front Line Manager",
+      "General Population",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "test_types": [
+      "P"
+    ],
+    "duration_minutes": null
+  }
+]
