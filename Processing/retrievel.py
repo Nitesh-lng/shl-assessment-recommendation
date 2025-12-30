@@ -88,7 +88,7 @@ def aggregate_chunks_to_assessments(
 
 # Manual test
 
-if __name__ == "__main__":
+'''if __name__ == "__main__":
     vs = load_vector_store()
     retriever = get_mmr_retriever(vs)
 
@@ -103,3 +103,4 @@ if __name__ == "__main__":
     print("\nTop Recommendations:\n")
     for r in recs:
         print(r["assessment_id"], "→ score:", r["match_score"])
+'''
