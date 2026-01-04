@@ -8,6 +8,7 @@ from Processing.retrievel import (
     aggregate_chunks_to_assessments,
 )
 
+
 app = FastAPI(
     title="SHL Assessment Recommendation API",
     description="Semantic recommendation engine for SHL assessments using FAISS + MMR",
