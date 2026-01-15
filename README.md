@@ -305,8 +305,8 @@ This avoids:
 * Real-world **data engineering pipeline**
 * Evaluation with **IR metrics**
 * Production-grade API & UI
-* Interview-ready architecture
 
 ---
+
 
 
